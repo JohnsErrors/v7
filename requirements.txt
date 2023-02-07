@@ -1,0 +1,11 @@
+requests
+bs4
+urllib.parse
+colorama
+pymongo
+pymysql
+random
+os
+time
+asyncio
+aiohttp
